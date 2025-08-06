@@ -1,16 +1,61 @@
-## Hi there 👋
 
-<!--
-**AnilFurkanOkcun/AnilFurkanOkcun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hello there 👋, I'm Anıl Furkan Ökçün</h1>
+<div align="center"><b>Android Developer</b> <sub>since 2016</sub></div>
 
-Here are some ideas to get you started:
+### 💼 Tech Stack
+```
+Mobile & Desktop:
+  - Android Native (Kotlin, Java, Jetpack Compose, XML)
+  - Flutter
+  - Kotlin Multiplatform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Architecture:
+  - MVVM, MVI, Clean Architecture, Repository Pattern, Multi-module architecture
+  - Hilt, Koin for Dependency Injection 
+  - Room, DataStore, SharedPreferences, Coroutines, Flow, Rx,
+
+Networking:
+  - REST (Retrofit2, OkHttp, Ktor)
+  - GraphQL (Apollo)
+  - WebSocket (OkHttp, Ktor)
+
+Testing:
+  - MockK, Mockito
+  - JUnit 4
+  - Robolectric
+  - Espresso, UI Automator
+
+Performance & Optimization:
+  - Proguard/R8
+  - App Bundle optimization
+  - Memory profiling tools
+
+CI/CD:
+  - GitHub Actions
+  - Fastlane
+  - Circle CI
+  - Jenkins
+
+Monitoring / Debugging:
+  - Google Play Console
+  - Firebase Crashlytics, UXCam
+  - Flipper, Chuck
+  - LeakCanary
+
+Tooling / Dev Productivity:
+  - Gradle KTS
+  - Cursor
+  - Git, GitHub CLI
+  - GitHub Copilot
+  - Postman, Swagger
+
+Android Libraries:
+  - Firebase
+  - Google Ads, Applovin Ads, Facebook Ads(Meta Audience Network)
+  - Google Analytics, Adjust, Segment, Amplitude, Braze
+  - ExoPlayer, Glide, Picasso, Coil, Lottie
+  - WorkManager
+  - GSON, Moshi
+  - CameraX, ML Kit
+  - Google Play Billing
+```
